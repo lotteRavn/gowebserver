@@ -13,17 +13,17 @@ func hello(w http.ResponseWriter, r *http.Request) {
 }
 
 func to_roman(n int)  string {
-    if n == 2 {
-        return "II"
-    }
-	 if n == 3{
-	return"III"
-	}
-	
-    	return "I"
-	
-}
+	var s string
 
+	if input <1 || input > 3999 {
+		return "Invalid Roman Number Value"}
+	s = ""
+	for input >= 1 {
+		s += "I"
+		input -= 1
+	}
+	return s}
+}
 
 type romanGenerator int
 func (n romanGenerator) ServeHTTP(w http.ResponseWriter, r *http.Request) {
