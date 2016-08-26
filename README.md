@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/skbogner/gowebserver.png?label=ready&title=Ready)](https://waffle.io/skbogner/gowebserver)
 [![Stories in Ready](https://badge.waffle.io/sthordall/gowebserver.png?label=ready&title=Ready)](https://waffle.io/sthordall/gowebserver)
 [![Stories in Ready](https://badge.waffle.io/sthordall/gowebserver.png?label=ready&title=Ready)](https://waffle.io/sthordall/gowebserver)
 [![Stories in Ready](https://badge.waffle.io/gowebserver/gowebserver.png?label=ready&title=Ready)](https://waffle.io/gowebserver/gowebserver)
