@@ -65,7 +65,7 @@ func to_roman(input int)  string {
 	}
 	for input >= 4 {
 		s += "IV"
-		input -= 4	
+		input -= 4
 	}
 	for input >= 1 {
 		s += "I"
