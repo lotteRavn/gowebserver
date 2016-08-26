@@ -22,7 +22,7 @@ func to_roman(n int)  string {
 		s += "I"
 		input -= 1
 	}
-	return s}
+	return s
 }
 
 type romanGenerator int
