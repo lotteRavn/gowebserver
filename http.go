@@ -16,8 +16,14 @@ func to_roman(n int)  string {
     if n == 2 {
         return "II"
     }
-    return "I"
+	 if n == 3{
+	return"III"
+	}
+	
+    	return "I"
+	
 }
+
 
 type romanGenerator int
 func (n romanGenerator) ServeHTTP(w http.ResponseWriter, r *http.Request) {
