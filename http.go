@@ -12,7 +12,7 @@ func hello(w http.ResponseWriter, r *http.Request) {
     io.WriteString(w, "Hello world!")
 }
 
-func to_roman(n int)  string {
+func to_roman(input int)  string {
 	var s string
 
 	if input <1 || input > 3999 {
