@@ -1,3 +1,14 @@
+[![Stories in Ready](https://badge.waffle.io/lotteRavn/gowebserver.png?label=ready&title=Ready)](https://waffle.io/lotteRavn/gowebserver)
+[![Stories in Ready](https://badge.waffle.io/lotteRavn/gowebserver.png?label=ready&title=Ready)](https://waffle.io/lotteRavn/gowebserver)
+[![Stories in Ready](https://badge.waffle.io/skbogner/gowebserver.png?label=ready&title=Ready)](https://waffle.io/skbogner/gowebserver)
+[![Stories in Ready](https://badge.waffle.io/sthordall/gowebserver.png?label=ready&title=Ready)](https://waffle.io/sthordall/gowebserver)
+[![Stories in Ready](https://badge.waffle.io/sthordall/gowebserver.png?label=ready&title=Ready)](https://waffle.io/sthordall/gowebserver)
+[![Stories in Ready](https://badge.waffle.io/gowebserver/gowebserver.png?label=ready&title=Ready)](https://waffle.io/gowebserver/gowebserver)
+[![Stories in Ready](https://badge.waffle.io/Brax94/gowebserver.png?label=ready&title=Ready)](https://waffle.io/Brax94/gowebserver)
+[![Stories in Ready](https://badge.waffle.io/Brax94/gowebserver.png?label=ready&title=Ready)](https://waffle.io/Brax94/gowebserver)
+[![Stories in Ready](https://badge.waffle.io/Brax94/gowebserver.png?label=ready&title=Ready)](https://waffle.io/Brax94/gowebserver)
+[![Stories in Ready](https://badge.waffle.io/Brax94/gowebserver.png?label=ready&title=Ready)](https://waffle.io/Brax94/gowebserver)
+[![Stories in Ready](https://badge.waffle.io/Brax94/gowebserver.png?label=ready&title=Ready)](https://waffle.io/Brax94/gowebserver)
 Run the follwing command to run the simple web server:
 $ go run http.go  
 
